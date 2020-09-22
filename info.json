@@ -1,0 +1,9 @@
+{
+    "name": "todo-list",
+    "version": "0.1.0",
+    "title": "TODO List",
+    "author": "dgflagg",
+    "factorio_version": "1.0",
+    "dependencies": ["base >= 1.0", "stdlib"],
+    "description": "Adds a TODO list to the game."
+}
