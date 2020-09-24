@@ -16,3 +16,7 @@ add make moar plates
 
 # remove TODO (by index)
 remove 2
+
+
+TODO:
+- upload to repository so others can download
